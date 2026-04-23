@@ -1,2 +1,1 @@
-
-stylo
+There isn't much to see, though.
